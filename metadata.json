@@ -1,0 +1,5 @@
+{
+  "name": "HORECA Standardize - Pro Image Tool",
+  "description": "A high-performance internal tool for bulk product image standardization, featuring automated threshold-based centering, scaling to safe zones, and bulk export capabilities.",
+  "requestFramePermissions": []
+}
